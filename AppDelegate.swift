@@ -5,6 +5,9 @@
 //  Created by Jiahao zhang on 2017/10/5.
 //  Copyright © 2017年 Jiahao zhang. All rights reserved.
 //
+//The AppDelegate.swift source file has two primary functions:
+//1. It defines your AppDelegate class. The app delegate creates the window where your app’s content is drawn and provides a place to respond to state transitions within the app.
+//2. It creates the entry point to your app and a run loop that delivers input events to your app. This work is done by the UIApplicationMain attribute (@UIApplicationMain), which appears toward the top of the file.
 
 import UIKit
 
