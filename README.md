@@ -1,15 +1,29 @@
 # 601-homework2-Resume Webpage, IOS APP
 This is a individial homework by Zhang Jiahao. And this is the first time for me to bulid a resume webpage and build an IOS app<br>
-The homework is divided into two parts:<br>
 
 ## Resume Webpage
 I made my own resume webpage and utilized firebase authentication function.
 ### Test task
 #### 1. Test case report
-In the testing period, Firstly I tested webpage link and login part, which are in high priority. Then I tested three contact links (GitHub, Twitter and Facebook link). Finally, I tested firebase database information.<br>
-![image](https://github.com/jiahaozh/601-homework2-IOS-APP/raw/master/test.png)
+In the testing period, Firstly I tested webpage link and login part, which are in high priority. Then I tested three contact links (GitHub, Twitter and Facebook link). Finally, I tested firebase database information.
+![image](https://github.com/jiahaozh/601-homework2-IOS-APP/raw/master/TEST/test.png)
 #### 2. Automate Testing
-In this part, I test Yanxing Zhang's webpage
+In this part, I test Yanxing Zhang's webpage.
+As recommended by professor, I ran it on Monkey Test. The results are as follows:
+![image](https://github.com/jiahaozh/601-homework2-IOS-APP/raw/master/TEST/monkeytest1.png)
+![image](https://github.com/jiahaozh/601-homework2-IOS-APP/raw/master/TEST/monkeytest2.png)
+![image](https://github.com/jiahaozh/601-homework2-IOS-APP/raw/master/TEST/monkeytest3.png)
+![image](https://github.com/jiahaozh/601-homework2-IOS-APP/raw/master/TEST/monkeytest4.png)
+![image](https://github.com/jiahaozh/601-homework2-IOS-APP/raw/master/TEST/monkeytest5.png)
+The page weight and page asset count show the composition of the webpage.
+
+The first warning: javascript error https://resumepage-154f0.firebaseapp.com/myjs.js:9 Uncaught TypeError: Cannot read property 'addEventListener' of null shows that there is some error in the code.<br>
+The second warning appeared in SEO. it says that "my resume" is only 9 characters, which is too short.
+
+I also ran it in WebSiteOptimization. 
+
+
+
 
 
 ## IOS APP
