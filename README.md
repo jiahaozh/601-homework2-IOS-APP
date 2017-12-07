@@ -1,5 +1,5 @@
 # 601-homework2-Resume Webpage, IOS APP
-This is a individial homework by Zhang Jiahao. And this is the first time for me to bulid a resume webpage and build part of an IOS app<br>
+This is a individial homework by Zhang Jiahao. I bulit a resume webpage and build part of an IOS app<br>
 
 ## Resume Webpage
 I made my own resume webpage and utilized firebase authentication function.
